@@ -1,53 +1,43 @@
 # Whatsapp-bulk-sender
 Free WhatsApp marketing tool that allows you to send messages one by one at a specific time interval.
 
+<body>
 
-How to Install and Use the Free WhatsApp Marketing Tool
-Installation Steps:
-Download the ZIP File: First, download the ZIP file of the WhatsApp Sender tool.
+  <h1>How to Install and Use the Free WhatsApp Marketing Tool</h1>
 
-Extract the ZIP: Right-click the file and extract it to a folder.
+  <h2>Installation Steps:</h2>
+  <ul>
+    <li><strong>Download the ZIP File:</strong> Download the WhatsApp Sender tool ZIP file.</li>
+    <li><strong>Extract the ZIP:</strong> Right-click the file and extract it to a folder.</li>
+    <li><strong>Open Your Browser:</strong> Use Chrome, Edge, or Brave.</li>
+    <li><strong>Go to Extensions:</strong> 
+      - Click the three dots in the top-right corner of your browser.<br>
+      - Go to <strong>Extensions</strong> or type <code>chrome://extensions</code> in the address bar.
+    </li>
+    <li><strong>Enable Developer Mode:</strong> Toggle on <strong>Developer mode</strong> at the top right.</li>
+    <li><strong>Load the Tool:</strong> Click <strong>"Load unpacked"</strong> and select the unzipped folder of the WhatsApp Sender.</li>
+    <li><strong>Tool Installed:</strong> You will now see the WhatsApp Sender icon in your extensions bar.</li>
+  </ul>
 
-Open Your Browser: Go to Chrome, Edge, or Brave (any Chromium-based browser).
+  <h2>How to Use:</h2>
+  <ul>
+    <li><strong>Open the Extension:</strong> Click the WhatsApp Sender icon to open the popup.</li>
+    <li><strong>Upload CSV File:</strong> Click <strong>Upload CSV</strong>. Your file should include a column for name or other fields.</li>
+    <li><strong>Write Your Message:</strong> 
+      Use curly brackets <code>{}</code> for personalization.<br>
+      Example: If your CSV includes a <code>name</code> column, write your message like:<br>
+      <code>Hi {name}, how are you?</code>
+    </li>
+    <li><strong>Set Time Interval:</strong> Choose a delay between messages — 30 to 60 seconds is ideal.</li>
+    <li><strong>Send Messages:</strong> Click <strong>Send Message</strong> to begin sending one by one.</li>
+  </ul>
 
-Go to Extensions:
+  <h2>Precautions While Using:</h2>
+  <ul>
+    <li><strong>Send Limit:</strong> Send no more than <strong>50 messages per day</strong> from a single WhatsApp account.</li>
+    <li><strong>Delay Between Messages:</strong> Use a delay of at least <strong>30 to 60 seconds</strong> between each message.</li>
+    <li><strong>Account Safety:</strong> Do not use new or unverified accounts to send bulk messages.</li>
+    <li><strong>Compliance:</strong> Make sure you follow WhatsApp's terms of service and your local laws regarding messaging and spam.</li>
+  </ul>
 
-Click the three dots in the top-right corner.
-
-Go to Extensions or type chrome://extensions in the address bar.
-
-Enable Developer Mode: On the top-right corner of the Extensions page, turn on Developer mode.
-
-Load the Tool:
-
-Click on "Load unpacked".
-
-Select the unzipped WhatsApp Sender folder.
-
-Tool Installed: You will now see the WhatsApp Sender icon in your extensions bar.
-
-How to Use:
-Open the Extension: Click the WhatsApp Sender icon. A popup will appear.
-
-Upload CSV File: Click Upload CSV. Your CSV should contain a column for names or any custom fields.
-
-Write Your Message:
-
-Use curly brackets {} for personalization.
-
-Example: If your CSV has a column named name, write your message like:
-"Hi {name}, how are you?"
-
-Set Time Interval: Choose a delay (in seconds) between each message — ideally 30 to 60 seconds.
-
-Send Messages: Click Send Message to start sending messages one by one.
-
-Precautions While Using:
-Send Limit: Do not send more than 50 messages per day from a single WhatsApp account.
-
-Delay Between Messages: Always maintain a 30 to 60-second delay between messages to reduce the risk of getting blocked.
-
-Account Safety: Avoid using new or unverified WhatsApp accounts.
-
-Compliance: Ensure you are following WhatsApp’s terms of service and local spam regulations.
-
+</body>
